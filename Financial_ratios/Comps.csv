@@ -1,0 +1,34 @@
+Company Comp Set,,
+Company Name,TEV/Total Revenues LTM - Latest,TEV/EBITDA LTM - Latest
+Toyota,1.40,10.70
+BMW,1.38,12.10
+BAIC,0.10,0.50
+Volkswagen,1.10,15.40
+BYD Company ,3.60,25.30
+SAIC,0.40,14.60
+Renault SA ,1.10,0.00
+Hyundai,1.02,14.79
+Geely,1.90,20.60
+Tesla,14.30,90.80
+,,
+,,
+,,
+,,
+Company Name,LTM EBITDA Margin % ,"LTM Total Revenues, 1 Yr Growth % "
+BMW,0.10,-0.01
+BAIC,0.16,0.01
+Volkswagen,0.05,-0.11
+BYD Company ,0.14,0.03
+SAIC,0.03,-0.07
+Renault SA ,0.05,-0.17
+Hyundai,0.05,-0.01
+Geely,0.08,-0.14
+Toyota,0.12,-0.16
+Tesla,0.14,0.15
+,,
+,,
+,,
+Source Capital IQ,,
+Note 1,USD/EUR,1.18119537
+Note 2,"Hyundai has no LTM data, only 2020 FY",
+,Geely LTM data as of June 2020,
